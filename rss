@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Lary's Notes]]></title><description><![CDATA[Cantinho para registrar minhas anotações ;)]]></description><link>https://laryssastephanie.github.io/</link><image><url>https://laryssastephanie.github.io/favicon.png</url><title>Lary&apos;s Notes</title><link>https://laryssastephanie.github.io/</link></image><generator>Jamify 1.0</generator><lastBuildDate>Sat, 26 Sep 2020 04:32:39 GMT</lastBuildDate><atom:link href="https://laryssastephanie.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SAP parte 1 - Conceitos gerais e introdução]]></title><description><![CDATA[Registro de minhas anotações sobre o curso de SAP MM. Nessa primeira parte contém alguns conceitos básicos  e introdução.]]></description><link>https://laryssastephanie.github.io/sap-mm-01/</link><guid isPermaLink="false">Ghost__Post__5f6eafdc9bb29a26b0890417</guid><category><![CDATA[SAP]]></category><dc:creator><![CDATA[Laryssa Stephanie]]></dc:creator><pubDate>Sat, 26 Sep 2020 03:48:11 GMT</pubDate><media:content url="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" medium="image"/><content:encoded><![CDATA[<img src="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" alt="SAP parte 1 - Conceitos gerais e introdução"/><p><em>Olá! <br>No meu último trabalho, tive a oportunidade de participar de um curso SAP, mais específicamente do módulo MM. Como na época fiz muitas anotações, decidi deixar registrado aqui essas notas para posterior consulta.</br></em></p><blockquote><strong>SAP</strong>: <strong>S</strong>ystem <strong>A</strong>nalysis <strong>P</strong>rogram and development</blockquote><!--kg-card-begin: markdown--><p>No mercado existem vários concorrentes, mas o SAP é o mais confiável por não apagar os dados. Tudo é feito em forma de estorno, para uma possível auditoria.<br>
+É importante saber do que se trata cada módulo para sabermos encaminhar as solicitações devidamente.</br></p>
+<p>O trabalho do MM começa a partir de uma requisição de compras, que é uma das primeiras tarefas que este módulo recebe.</p>
+<h3 id="logsticadesuprimentos">Logística de suprimentos:</h3>
+<ul>
+<li>Determinação de necessidades</li>
+<li>Determinação de fonte de suprimentos</li>
+<li>Seleção de fornecedor</li>
+<li>Processamento de pedido de compra</li>
+<li>Controle de pedidos</li>
+<li>Entrada de mercadorias</li>
+<li>Revisão de faturas</li>
+<li>Pagamento</li>
+<li>Produto acabado = é um tipo de material</li>
+</ul>
+<h3 id="mrpmaterialresourceplanning">MRP (Material Resource Planning)</h3>
+<ul>
+<li>Sistema Toyota de produção</li>
+<li>Pedidos de requisições automáticas</li>
+<li>“Just in time”</li>
+<li>Horizonte de planejamento</li>
+<li>Não pode ter muito estoque, nem faltar materiais</li>
+</ul>
+<h3 id="mduloficontabilidadefinanceira">Módulo FI – contabilidade financeira</h3>
+<ul>
+<li>Configuradas as contas financeiras</li>
+<li>Existe uma integração com MM em algumas etapas</li>
+<li>Enfoca mais a “Razão Geral”
+<blockquote>
+<p>“Contas do Razão” = são “livros” contendo os balanços</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="mduloderecursoshumanos">Módulo de Recursos Humanos</h3>
+<ul>
+<li>Possui alto custo e é pouco utilizado nas empresas que utilizam SAP no Brasil</li>
+</ul>
+<h3 id="tiposdesap">Tipos de SAP:</h3>
+<ul>
+<li>SAP Busines One
+<ul>
+<li>Pequenas empresas</li>
+<li>Funcionalidade fundamental</li>
+</ul>
+</li>
+<li>mySAP All in One
+<ul>
+<li>Standard (mais recomendado)</li>
+<li>Pré Configurado</li>
+</ul>
+</li>
+<li>mySAP Business suíte
+<ul>
+<li>My SAP ERP</li>
+<li>Funcionalidade extensiva</li>
+</ul>
+</li>
+<li>S for Hana
+<ul>
+<li>Nova plataforma</li>
+</ul>
+</li>
+<li>SAP ECC – Enterprise Central Component
+<ul>
+<li>Mais utilizado atualmente. Possui vários módulos como o MM, por exemplo.</li>
+</ul>
+</li>
+</ul>
+<p>Às vezes é necessário implantar o Z como melhoria, porém deve-se evitar ou utilizar minimamente, pois pode apresentar bug’s.</p>
+<!--kg-card-end: markdown--><p><em>Disclaimer: estudar sobre logística de suprimentos</em></p>]]></content:encoded></item></channel></rss>
