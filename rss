@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Lary's Notes]]></title><description><![CDATA[Cantinho para registrar minhas anotações ;)]]></description><link>https://laryssastephanie.github.io/</link><image><url>https://laryssastephanie.github.io/favicon.png</url><title>Lary&apos;s Notes</title><link>https://laryssastephanie.github.io/</link></image><generator>Jamify 1.0</generator><lastBuildDate>Sat, 26 Sep 2020 04:32:39 GMT</lastBuildDate><atom:link href="https://laryssastephanie.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SAP parte 1 - Conceitos gerais e introdução]]></title><description><![CDATA[Registro de minhas anotações sobre o curso de SAP MM. Nessa primeira parte contém alguns conceitos básicos  e introdução.]]></description><link>https://laryssastephanie.github.io/sap-mm-01/</link><guid isPermaLink="false">Ghost__Post__5f6eafdc9bb29a26b0890417</guid><category><![CDATA[SAP]]></category><dc:creator><![CDATA[Laryssa Stephanie]]></dc:creator><pubDate>Sat, 26 Sep 2020 03:48:11 GMT</pubDate><media:content url="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" medium="image"/><content:encoded><![CDATA[<img src="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" alt="SAP parte 1 - Conceitos gerais e introdução"/><p><em>Olá! <br>No meu último trabalho, tive a oportunidade de participar de um curso SAP, mais específicamente do módulo MM. Como na época fiz muitas anotações, decidi deixar registrado aqui essas notas para posterior consulta.</br></em></p><blockquote><strong>SAP</strong>: <strong>S</strong>ystem <strong>A</strong>nalysis <strong>P</strong>rogram and development</blockquote><!--kg-card-begin: markdown--><p>No mercado existem vários concorrentes, mas o SAP é o mais confiável por não apagar os dados. Tudo é feito em forma de estorno, para uma possível auditoria.<br>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Lary's Notes]]></title><description><![CDATA[Cantinho para registrar minhas anotações ;)]]></description><link>https://laryssastephanie.github.io/</link><image><url>https://laryssastephanie.github.io/favicon.png</url><title>Lary&apos;s Notes</title><link>https://laryssastephanie.github.io/</link></image><generator>Jamify 1.0</generator><lastBuildDate>Tue, 29 Sep 2020 04:17:10 GMT</lastBuildDate><atom:link href="https://laryssastephanie.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SAP parte 1 - Conceitos gerais e introdução]]></title><description><![CDATA[Registro de minhas anotações sobre o curso de SAP MM. Nessa primeira parte contém alguns conceitos básicos  e introdução.]]></description><link>https://laryssastephanie.github.io/sap-mm-01/</link><guid isPermaLink="false">Ghost__Post__5f6eafdc9bb29a26b0890417</guid><category><![CDATA[SAP]]></category><category><![CDATA[Blog]]></category><dc:creator><![CDATA[Laryssa Stephanie]]></dc:creator><pubDate>Sat, 26 Sep 2020 03:48:11 GMT</pubDate><media:content url="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" medium="image"/><content:encoded><![CDATA[<img src="https://laryssastephanie.github.io/static/1c356c0842248c497ed1489c1927ff76/SAP_2011_logo.svg" alt="SAP parte 1 - Conceitos gerais e introdução"/><p><em>Olá! <br>No meu último trabalho, tive a oportunidade de participar de um curso SAP, mais específicamente do módulo MM. Como na época fiz muitas anotações, decidi deixar registrado aqui essas notas para posterior consulta.</br></em></p><blockquote><strong>SAP</strong>: <strong>S</strong>ystem <strong>A</strong>nalysis <strong>P</strong>rogram and development</blockquote><!--kg-card-begin: markdown--><p>No mercado existem vários concorrentes, mas o SAP é o mais confiável por não apagar os dados. Tudo é feito em forma de estorno, para uma possível auditoria.<br>
 É importante saber do que se trata cada módulo para sabermos encaminhar as solicitações devidamente.</br></p>
 <p>O trabalho do MM começa a partir de uma requisição de compras, que é uma das primeiras tarefas que este módulo recebe.</p>
 <h3 id="logsticadesuprimentos">Logística de suprimentos:</h3>
@@ -67,4 +67,53 @@
 </li>
 </ul>
 <p>Às vezes é necessário implantar o Z como melhoria, porém deve-se evitar ou utilizar minimamente, pois pode apresentar bug’s.</p>
-<!--kg-card-end: markdown--><p><em>Disclaimer: estudar sobre logística de suprimentos</em></p>]]></content:encoded></item></channel></rss>
+<!--kg-card-end: markdown--><p><em>Disclaimer: estudar sobre logística de suprimentos</em></p>]]></content:encoded></item><item><title><![CDATA[SAP MM parte 02 - Estrutura organizacional]]></title><description><![CDATA[Um pouco sobre a estrutura organizacional dentro do SAP]]></description><link>https://laryssastephanie.github.io/sap-mm-parte-02/</link><guid isPermaLink="false">Ghost__Post__5f727bfa9bb29a26b08904eb</guid><category><![CDATA[SAP]]></category><category><![CDATA[Blog]]></category><dc:creator><![CDATA[Laryssa Stephanie]]></dc:creator><pubDate>Tue, 29 Sep 2020 03:53:28 GMT</pubDate><media:content url="https://laryssastephanie.github.io/static/9da2f16e14121d013258e2926cc25281/sap_mm.jpg" medium="image"/><content:encoded><![CDATA[<!--kg-card-begin: markdown--><h3 id="sapmmgestodemateriais">SAP MM – gestão de materiais</h3>
+<ul>
+<li>Aquisição de materiais ou serviços</li>
+<li>Entrada destes na empresa</li>
+<li>Consumo/movimentação de materiais dentro de uma empresa</li>
+<li>Até chegar na Expedição – módulo SD (<em>Sales and Distribution</em>)</li>
+</ul>
+<img src="https://laryssastephanie.github.io/static/9da2f16e14121d013258e2926cc25281/sap_mm.jpg" alt="SAP MM parte 02 - Estrutura organizacional"/><p>Cada empresa tem seu cenário de negócio. Por exemplo, podem ter o módulo MM, mas não o utilizar. Algumas empresas não tem estoque, e o material comprado vai direto para consumo.</p>
+<blockquote>
+<p>OBS: Empresas com franquias não utilizam o mesmo SAP</p>
+</blockquote>
+<h3 id="estruturaorganizacional">Estrutura organizacional:</h3>
+<p>¹Mandante –> ²Empresa –> ³Centro –> ⁴Depósito –> ⁵Organização de compras/⁶grupo de compradores</p>
+<ol>
+<li>
+<p>Mandante  cada mandante são novas tabelas. Dentro de um mandante pode haver várias empresas.</p>
+</li>
+<li>
+<p>Empresa – módulo FI (contabilidade) – balanço – plano de contas – conta contábil.</p>
+<ul>
+<li>Consultor FI cria empresa no SAP</li>
+</ul>
+</li>
+<li>
+<p>Centro – uma instalação fabril ou filial dentro de uma firma.</p>
+<blockquote>
+<p><strong>SPRO</strong>: Estrutura do empreendimento > Definição > Logística > geral<br>
+Definir, opinar, eliminar, verificar centro</br></p>
+</blockquote>
+</li>
+<li>
+<p>Depósito – permite diferenciação de estoques de material em um centro – coloca só um tipo de material em cada depósito.</p>
+<ul>
+<li>Inventário físico – só de depósito.	Quando é consumo não possui inventário</li>
+</ul>
+<blockquote>
+<p><strong>SPRO</strong>: Estrutura do empreendimento > Definição > Administração de materiais</p>
+</blockquote>
+</li>
+<li>
+<p>Organização de Compras – responsável pelo fechamento de contratos de compra.</p>
+</li>
+<li>
+<p>Grupo de compradores - responsável por determinadas atividades de compras.</p>
+<blockquote>
+<p><strong>SPRO</strong>: Estrutura do empreendimento > Definição > Administração de materiais > Atribuir organização de compras – centro</p>
+</blockquote>
+</li>
+</ol>
+<!--kg-card-end: markdown--><p>Para acessar a estrutura do empreendimento, seguir conforme imagens abaixo:</p><figure class="kg-card kg-image-card"><img src="http://localhost:2368/content/images/2020/09/image-2.png" class="kg-image" alt="SAP MM parte 02 - Estrutura organizacional"/></figure><figure class="kg-card kg-image-card"><img src="http://localhost:2368/content/images/2020/09/image.png" class="kg-image" alt="SAP MM parte 02 - Estrutura organizacional"/></figure><figure class="kg-card kg-image-card"><img src="http://localhost:2368/content/images/2020/09/image-1.png" class="kg-image" alt="SAP MM parte 02 - Estrutura organizacional"/></figure>]]></content:encoded></item></channel></rss>
